@@ -23,7 +23,6 @@ export PATH
 # @cyfdecyf   <https://twitter.com/cyfdecyf>
 # @madeye     <https://github.com/madeye>
 # @linusyang  <https://github.com/linusyang>
-# @Akkariiin  <https://github.com/Akkariiin>
 # 
 # Intro:  https://teddysun.com/486.html
 
