@@ -5,6 +5,10 @@ export PATH
 ###取自 秋水逸冰 teddysun.com 纯备份+自用
 ###原档地址:https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 #
+#wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+#chmod +x shadowsocks-all.sh
+#./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+#
 # Auto install Shadowsocks Server (all version)
 #
 # Copyright (C) 2016-2019 Teddysun <i@teddysun.com>
