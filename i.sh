@@ -2,6 +2,9 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 #
+###取自 秋水逸冰 teddysun.com 纯备份+自用
+###原档地址:https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+#
 # Auto install Shadowsocks Server (all version)
 #
 # Copyright (C) 2016-2019 Teddysun <i@teddysun.com>
@@ -23,8 +26,9 @@ export PATH
 # @cyfdecyf   <https://twitter.com/cyfdecyf>
 # @madeye     <https://github.com/madeye>
 # @linusyang  <https://github.com/linusyang>
+# @Akkariiin  <https://github.com/Akkariiin>
 # 
-# Intro:  https://teddysun.com/486.html
+# Intro:  https://teddy.com/486.html
 
 red='\033[0;31m'
 green='\033[0;32m'
